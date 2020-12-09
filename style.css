@@ -1,0 +1,18 @@
+
+body{
+background-color: black;
+}
+ul{
+    color: blanchedalmond;
+    font-size: 24px;
+    font-family: 'JetBrains Mono', monospace;
+text-decoration: none;
+}
+h3{
+    color: blanchedalmond;
+    font-style: italic;
+    margin-left: 20px;
+}
+em{
+    color: chartreuse;
+}
